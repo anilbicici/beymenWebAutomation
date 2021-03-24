@@ -1,0 +1,27 @@
+[
+  {
+    "key": "kadin",
+    "value": ".kadin",
+    "type": "css"
+  },
+  {
+    "key": "giyim",
+    "value": "//a[@href='/kadin-giyim-10020']",
+    "type": "xpath"
+  },
+  {
+    "key": "ilkIndirimliUrun",
+    "value": ".m-productCard__discnt",
+    "type": "css"
+  },
+  {
+    "key1": "indirimOncesi",
+    "value": ".m-productCard__oldPrice",
+    "type": "css"
+  },
+  {
+    "key2": "indirimSonrasi",
+    "value": "//span[@class='m-productCard__discnt']/following-sibling::span/span[2]",
+    "type": "xpath"
+  }
+]

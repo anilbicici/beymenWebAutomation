@@ -1,0 +1,22 @@
+#Beymen anasayfasina git
+*"https://www.beymen.com/" sayfasina git
+*"5" Saniye bekle
+*Ana sayfanin acildigi kontrol edilir
+
+#Kadin menusunden giyim secenegi tiklanir
+*"kadin" menusunun uzerine gel
+*"giyim" secenegine tikla
+
+#Acilan sayfanin urli kadin-giyim icerdigi kontrol edilir
+*"3" Saniye bekle
+*Acilan sayfa "kadin-giyim" iceriyor mu
+
+#Acilan sayfada ilk indirimli urun bulunur
+*"ilkIndirimli" urununu bul
+*"3" Saniye bekle
+
+#Urunun indirim oncesi ve indirim sonrası fiyatlari ekrana yazdırılır
+*"indirimOncesi" ve "indirimSonrasi" fiyat yazdir
+
+#2 Fiyat arasindaki fiyat farki txt dosyasina yazdirilir
+*2 Fiyat arasindaki farki yazdir
